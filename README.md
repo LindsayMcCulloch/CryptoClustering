@@ -9,6 +9,9 @@ This is the repository for Monash University Data Analytics Bootcamp Module 19 C
 
 * `crypto_market_data.csv`csv file that contains the data for this challenge
 
+## Analysis 
+
+
 ## Instructions 
 
 1. Rename the `Crypto_Clustering_starter_code.ipynb` file as `Crypto_Clustering.ipynb`.
@@ -219,6 +222,13 @@ To receive all points, your code must:
 BCS Xpert Learning assistant
 
 https://scikit-learn.org/stable/modules/clustering.html#clustering
+
+https://stackoverflow.com/questions/74296474/how-to-interpret-explained-variance-ratio-plot-from-principal-components-of-pca
+
+https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
+
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
 
 ## Acknowledgments 
 
