@@ -14,7 +14,7 @@ This is the repository for Monash University Data Analytics Bootcamp Module 19 C
 
 **1. What is the best value for `k`?**
 
-K = 4 is the best value based on the above elbow curve
+K = 4 is the best value based on the below elbow curve
 
 ![alt text](<Elbow curve 1.png>)
 
