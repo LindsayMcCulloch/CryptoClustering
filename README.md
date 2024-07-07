@@ -4,6 +4,7 @@ This is the repository for Monash University Data Analytics Bootcamp Module 19 C
 ## Contents
 
 * `Crypto_Clustering.ipynb` Jupyter notebook containing the data query for this challenge
+* `.png` images for the visualisations in this ReadMe
 
 **Resources folder**
 
@@ -11,6 +12,33 @@ This is the repository for Monash University Data Analytics Bootcamp Module 19 C
 
 ## Analysis 
 
+**1. What is the best value for `k`?**
+
+K = 4 is the best value based on the above elbow curve
+
+![alt text](<Elbow curve 1.png>)
+
+**2. What is the total explained variance of the three principal components?**
+
+0.37701473 + 0.34354479 + 0.17333394 = 0.8938934597944491
+
+**3. What is the best value for `k` when using the PCA data?**
+
+The best value for K is 4
+
+**4. Does it differ from the best k value found using the original data?**
+
+No, the best value remains as 4
+
+![alt text](<Elbow curve 2.png>)
+
+**5. After visually analysing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?**
+
+After analyzing the cluster results, it can be found that the PCA data resulted in tighter clusters and resulted in more entries within cluster 0 and cluster 3 compared to the original scatter data.
+
+![alt text](<Original data scatter plot.png>)
+
+![alt text](<PCA scatter plot.png>)
 
 ## Instructions 
 
