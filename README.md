@@ -34,7 +34,7 @@ No, the best value remains as 4
 
 **5. After visually analysing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?**
 
-After analyzing the cluster results, it can be found that the PCA data resulted in tighter clusters and resulted in more entries within cluster 3 compared to the original scatter data.
+After analyzing the cluster results, it can be found that the PCA data resulted in tighter clusters and resulted in more entries within cluster 3 compared to the original scatter data where values were contained in cluster 0
 
 ![alt text](<Original data scatter plot.png>)
 
